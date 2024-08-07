@@ -35,19 +35,6 @@
       "url": "autoppia-x-bittensor"
     }
   ],
-  "anchors": [
-    {
-      "name": "X",
-      "icon": "x-twitter",
-      "url": "https://x.com/AutoppiaAI"
-    }
-    ,
-    {
-      "name": "Telegram",
-      "icon": "telegram",
-      "url": "https://x.com/AutoppiaAI"
-    }
-  ],
   "navigation": [
     {
       "group": "Get Started",
@@ -76,6 +63,19 @@
           ]
 
       }
+  ],
+  "anchors": [
+    {
+      "name": "X",
+      "icon": "x-twitter",
+      "url": "https://x.com/AutoppiaAI"
+    }
+    ,
+    {
+      "name": "Telegram",
+      "icon": "telegram",
+      "url": "https://x.com/AutoppiaAI"
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/AutoppiaAI"
