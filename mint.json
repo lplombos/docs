@@ -64,11 +64,11 @@
       {
         "group": "Browser Assistance Subnet",
         "pages": [
-          "browser-assistance-subnet/overview",
-          "browser-assistance-subnet/incentive-mechanism",
-          "browser-assistance-subnet/request-generation",
-          "browser-assistance-subnet/workflow-generation",
-          "browser-assistance-subnet/workflow-evaluation"
+          "autoppia-x-bittensor/browser-assistance-subnet/overview",
+          "autoppia-x-bittensor/browser-assistance-subnet/incentive-mechanism",
+          "autoppia-x-bittensor/browser-assistance-subnet/request-generation",
+          "autoppia-x-bittensor/browser-assistance-subnet/workflow-generation",
+          "autoppia-x-bittensor/browser-assistance-subnet/workflow-evaluation"
 
           ]
 
