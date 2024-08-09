@@ -26,12 +26,21 @@
     "url": "https://dashboard.mintlify.com"
   },
 
-  "tabs": [
+"tabs": [
     {
-      "name": "Decentralized AI",
-      "url": "decentralized-ai"
+        "name": "API References",
+        "url": "api-references"
+    },
+    {
+        "name": "Content",
+        "url": "content"
+    },
+    {
+        "name": "Blog",
+        "url": "https://your-website.com/blog"
     }
-  ],
+],
+
   "navigation": [
     {
       "group": "Get Started",
