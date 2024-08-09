@@ -41,9 +41,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "Overview",
-        "AI Workers",
-        "Products"
+        "overview",
+        "aiworkers",
+        "products"
       ]
     },
     {
