@@ -75,6 +75,11 @@
       "name": "Telegram",
       "icon": "telegram",
       "url": "https://x.com/AutoppiaAI"
+    },
+    {
+      "name": "Github",
+      "icon": "github",
+      "url": "https://github.com/autoppia"
     }
   ],
   "footerSocials": {
