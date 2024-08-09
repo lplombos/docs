@@ -23,8 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com",
-    "color" : "red"
+    "url": "https://dashboard.mintlify.com"
   },
   "primaryTab": {
     "name": "Manifesttttt"
