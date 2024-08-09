@@ -7,8 +7,8 @@
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#145cc2",
-    "light": "#145cc2",
+    "primary": "#4287f5",
+    "light": "#4287f5",
     "dark": "#cb587e",
     "anchors": {
       "from": "#0D9373",
