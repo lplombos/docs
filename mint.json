@@ -25,22 +25,15 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
-
-"tabs": [
+  "primaryTab": {
+    "name": "Manifest"
+  },
+  "tabs": [
     {
-        "name": "API References",
-        "url": "api-references"
-    },
-    {
-        "name": "Content",
-        "url": "content"
-    },
-    {
-        "name": "Blog",
-        "url": "https://your-website.com/blog"
+      "name": "Decentralized AI",
+      "url": "autoppia-x-bittensor"
     }
-],
-
+  ],
   "navigation": [
     {
       "group": "Get Started",
