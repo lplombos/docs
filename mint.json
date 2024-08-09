@@ -30,12 +30,8 @@
   },
   "tabs": [
     {
-      "name": "Manifest",
-      "url": "manifest"
-    },
-    {
       "name": "Decentralized AI",
-      "url": "decentralized_ai"
+      "url": "decentralized-ai"
     }
   ],
   "navigation": [
@@ -50,20 +46,20 @@
     {
       "group": "AUTOPPIA & BITTENSOR",
       "pages": [
-        "decentralized_ai/overview",
+        "decentralized-ai/overview",
           {
           "group": "Browser Subnet",
           "pages": [
-            "decentralized_ai/browser-assistance-subnet/overview",
-            "decentralized_ai/browser-assistance-subnet/incentive-mechanism",
-            "decentralized_ai/browser-assistance-subnet/request-generation",
-            "decentralized_ai/browser-assistance-subnet/workflow-generation",
-            "decentralized_ai/browser-assistance-subnet/workflow-evaluation"
+            "decentralized-ai/browser-assistance-subnet/overview",
+            "decentralized-ai/browser-assistance-subnet/incentive-mechanism",
+            "decentralized-ai/browser-assistance-subnet/request-generation",
+            "decentralized-ai/browser-assistance-subnet/workflow-generation",
+            "decentralized-ai/browser-assistance-subnet/workflow-evaluation"
 
             ]
 
         },
-        "decentralized_ai/synergy-validator"
+        "decentralized-ai/synergy-validator"
       ]
     }
       
