@@ -26,9 +26,13 @@
     "url": "https://dashboard.mintlify.com"
   },
   "primaryTab": {
-    "name": "Manifesttttt"
+    "name": "Manifest"
   },
   "tabs": [
+    {
+      "name": "Manifest",
+      "url": "manifest"
+    },
     {
       "name": "Decentralized AI",
       "url": "decentralized_ai"
