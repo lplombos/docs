@@ -7,7 +7,7 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#feb47b",
+    "primary": "#145cc2",
     "light": "#000",
     "dark": "#ffffff",
     "anchors": {
@@ -30,7 +30,7 @@
   },
   "tabs": [
     {
-      "name": "manifest",
+      "name": "manifest"
     },
     {
       "name": "Decentralized AI",
