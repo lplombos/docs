@@ -48,7 +48,6 @@
       "group": "AUTOPPIA & BITTENSOR",
       "pages": [
         "decentralized_ai/overview",
-        "decentralized_ai/synergy-validator",
           {
           "group": "Browser Subnet",
           "pages": [
@@ -60,7 +59,8 @@
 
             ]
 
-        }
+        },
+        "decentralized_ai/synergy-validator"
       ]
     }
       
