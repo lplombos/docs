@@ -49,18 +49,18 @@
       "pages": [
         "decentralized_ai/overview",
         "decentralized_ai/synergy-validator",
-        {
-        "group": "Browser Subnet",
-        "pages": [
-          "decentralized_ai/browser-assistance-subnet/overview",
-          "decentralized_ai/browser-assistance-subnet/incentive-mechanism",
-          "decentralized_ai/browser-assistance-subnet/request-generation",
-          "decentralized_ai/browser-assistance-subnet/workflow-generation",
-          "decentralized_ai/browser-assistance-subnet/workflow-evaluation"
+          {
+          "group": "Browser Subnet",
+          "pages": [
+            "decentralized_ai/browser-assistance-subnet/overview",
+            "decentralized_ai/browser-assistance-subnet/incentive-mechanism",
+            "decentralized_ai/browser-assistance-subnet/request-generation",
+            "decentralized_ai/browser-assistance-subnet/workflow-generation",
+            "decentralized_ai/browser-assistance-subnet/workflow-evaluation"
 
-          ]
+            ]
 
-      }
+        }
       ]
     }
       
