@@ -30,6 +30,9 @@
   },
   "tabs": [
     {
+      "name": "manifest",
+    },
+    {
       "name": "Decentralized AI",
       "url": "autoppia-x-bittensor"
     }
