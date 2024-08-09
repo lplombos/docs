@@ -1,24 +1,32 @@
 ---
 title: AI Workers
 description: 'Autonomous Agents'
-sidebarTitle: "AI Workers"
+sidebarTitle: "Orchestrating Language Models for Real-World Tasks"
 ---
 
-General Purpose Language Models have become an incredibly powerful tool for solving and automating arbitrary user tasks. However, they are not enough on their own. To build fully functional AI systems that can perform actions in the real world, some kind of orchestration is necessary. We call this orchestration of technologies and tools: AI Workers.
-What do AI workers consist of?
+General Purpose Language Models have become an incredibly powerful tool for solving and automating arbitrary user tasks. However, they are not enough on their own. To build fully functional AI systems that can perform actions in the real world, some kind of orchestration is necessary. We call this orchestration of technologies and tools: **AI Workers**.
+
+## What do AI workers consist of?
 AI workers are composed of several key components that work together to create a comprehensive system:
-
-Language Models: AI workers are powered by LLMs, which provide reasoning capabilities and knowledge. Our design is abstract and agnostic, meaning we're not coupled with any specific solutions or LLM providers. As long as the model supports function tooling, AI workers can be powered by different LLMs like GPT-4 or Mixtral.
-Integrations: These are third-party services and applications that allow connectivity between AI workers and external services, extending the workers' capabilities. Integrations refer to the connectivity and configuration of these services, which may include sensitive data like credentials (never included in the LLMs' context window).
-Knowledge: All the documentation that the worker has access to (PDFs, TXTs, Excels, etc.). This information is queried by RAG systems or accessed individually, including traditional documents and vector stores.
-Tools: Tools enable real-world interaction and narrow arbitrary tasks into more manageable and contextualizable actions with predictable inputs and outputs. They lead to a more deterministic and traditional way of solving problems, allowing easy use of legacy tech.
-Memory: Access to past interactions, allowing for improvement over time. This is usually implemented by fine-tuning the LLMs that power the worker but can also be implemented with RAG systems.
-Interfaces: When specific technical development and connectivity are not possible, AI workers may need to use interfaces like computers, mobile devices, browsers, and software to access functionality.
-Communication channels: AI workers can receive instructions and user feedback through different channels, usually in the form of chat conversations. They can be contacted via standard messaging apps or through dedicated chat interfaces.
-
+1. **Language Models**
+AI workers are powered by LLMs, which provide reasoning capabilities and knowledge. Our design is abstract and agnostic, meaning we're not coupled with any specific solutions or LLM providers. As long as the model supports function tooling, AI workers can be powered by different LLMs like GPT-4 or Mixtral.
+2. **Integrations**
+These are third-party services and applications that allow connectivity between AI workers and external services, extending the workers' capabilities. Integrations refer to the connectivity and configuration of these services, which may include sensitive data like credentials (never included in the LLMs' context window).
+3. **Knowledge**
+All the documentation that the worker has access to (PDFs, TXTs, Excels, etc.). This information is queried by RAG systems or accessed individually, including traditional documents and vector stores.
+4. **Tools**
+Tools enable real-world interaction and narrow arbitrary tasks into more manageable and contextualizable actions with predictable inputs and outputs. They lead to a more deterministic and traditional way of solving problems, allowing easy use of legacy tech.
+5. **Memory**
+Access to past interactions, allowing for improvement over time. This is usually implemented by fine-tuning the LLMs that power the worker but can also be implemented with RAG systems.
+6. **Interfaces**
+When specific technical development and connectivity are not possible, AI workers may need to use interfaces like computers, mobile devices, browsers, and software to access functionality.
+7. **Communication channels**
+AI workers can receive instructions and user feedback through different channels, usually in the form of chat conversations. They can be contacted via standard messaging apps or through dedicated chat interfaces.
 <Tip>
 AI workers represent a higher layer of abstraction for managing AI processes in business operations, similar to how dashboards, CRMs, and ERPs simplified complex business processes and data sources.
 </Tip>
+
+## Autoppia as an AI Orquestration Layer
 The AI Orchestration Layer
 As AI becomes increasingly integrated into business processes, there's a need for a higher layer to manage all the new AI processes required to operate a business. This solution will become the default interface for interacting with business processes and data, with legacy software serving as tools under AI management.
 <Frame>
