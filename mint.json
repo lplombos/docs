@@ -38,9 +38,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "overview",
+        "Overview",
         "AI Workers",
-        "products"
+        "Products"
       ]
     },
     {
@@ -59,7 +59,7 @@
             ]
 
         },
-        "https://synergy.autoppia.com"
+        "autoppia-x-bittensor/synergy-validator"
       ]
     }
       
