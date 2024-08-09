@@ -39,27 +39,27 @@
       "group": "Get Started",
       "pages": [
         "overview",
-        "aiworkers",
+        "AI Workers",
         "products"
       ]
     },
     {
       "group": "AUTOPPIA & BITTENSOR",
       "pages": [
-        "decentralized-ai/overview",
+        "autoppia-x-bittensor/overview",
           {
           "group": "Browser Subnet",
           "pages": [
-            "decentralized-ai/browser-assistance-subnet/overview",
-            "decentralized-ai/browser-assistance-subnet/incentive-mechanism",
-            "decentralized-ai/browser-assistance-subnet/request-generation",
-            "decentralized-ai/browser-assistance-subnet/workflow-generation",
-            "decentralized-ai/browser-assistance-subnet/workflow-evaluation"
+            "autoppia-x-bittensor/browser-assistance-subnet/overview",
+            "autoppia-x-bittensor/browser-assistance-subnet/incentive-mechanism",
+            "autoppia-x-bittensor/browser-assistance-subnet/request-generation",
+            "autoppia-x-bittensor/browser-assistance-subnet/workflow-generation",
+            "autoppia-x-bittensor/browser-assistance-subnet/workflow-evaluation"
 
             ]
 
         },
-        "decentralized-ai/synergy-validator"
+        "autoppia-x-bittensor/synergy-validator"
       ]
     }
       
