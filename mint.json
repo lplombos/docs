@@ -8,7 +8,7 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#145cc2",
-    "light": "#000",
+    "light": "#145cc2",
     "dark": "#ffffff",
     "anchors": {
       "from": "#0D9373",
